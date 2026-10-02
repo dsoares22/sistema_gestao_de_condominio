@@ -446,7 +446,7 @@ Este projeto está licenciado sob a licença **MIT**.
 GitHub:
 
 ```text
-https://github.com/dvsxx11
+https://github.com/dsoares22
 ```
 
 ---
